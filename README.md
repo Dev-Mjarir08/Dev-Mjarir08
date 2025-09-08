@@ -1,7 +1,5 @@
 # 👋 Hi, I’m **Jarir Mulatni**
 
-| 🌱 Aspiring **Full-Stack Developer**  
-📍 Surat, India — *Currently focused on Frontend; will move to Backend after a few months of frontend work.*
 
 ---
 
