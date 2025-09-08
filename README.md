@@ -1,8 +1,5 @@
 # 👋 Hi, I’m **Jarir Mulatni**
 
-
----
-
 ## 📈 GitHub Profile Overview
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dev-Mjarir08&color=blueviolet&style=flat-square)  
