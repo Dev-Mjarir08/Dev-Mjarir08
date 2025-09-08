@@ -1,6 +1,6 @@
 # 👋 Hi, I’m **Jarir Mulatni**
 
-🎓 **Diploma in Computer Engineering Student** | 🌱 Aspiring **Full-Stack Developer**  
+| 🌱 Aspiring **Full-Stack Developer**  
 📍 Surat, India — *Currently focused on Frontend; will move to Backend after a few months of frontend work.*
 
 ---
