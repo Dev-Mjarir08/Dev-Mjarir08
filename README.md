@@ -63,13 +63,11 @@
 
 ## 🔗 Connect With Me
 
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Mjarir08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-bhadoriya-b82792324/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mjarir08@gmail.com) |
+| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Mjarir08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarir-multani-3b7483369/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mjarir08@gmail.com) |
 |---|---|---|
-| [![Behance](https://img.shields.io/badge/Behance-1769FF?style=flat&logo=behance&logoColor=white)](https://www.behance.net/shivambhadoriya2/) | [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_fr.nurull/) | [![PhonePe](https://img.shields.io/badge/PhonePe-5F259F?style=flat&logo=phonepe&logoColor=white)](https://phonepe.com/pay/9106988376@ybl) |
-
 ---
 
-## Random Dev Quote:
+## Random Dev Quote:|
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
