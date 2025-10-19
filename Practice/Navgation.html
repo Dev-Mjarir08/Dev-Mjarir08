@@ -1,0 +1,146 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <title>Navigation</title>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    <!-- Bootstrap CSS v5.2.1 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous" />
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@700&display=swap');
+        @import url('https://fonts.googleapis.com/css2?family=Teko:wght@400;500;600;700&display=swap');
+
+        * {
+            padding: 0;
+            margin: 0;
+            box-sizing: border-box;
+            font-family: 'Teko', sans-serif;
+        }
+
+        body {
+            background: #111;
+        }
+
+        .fullPageMenu {
+            position: fixed;
+            top: 0;
+            left: 0;
+            bottom: 0;
+            width: 400px;
+            display: flex;
+        
+            align-items: center;
+            background: #111;
+            transition: 0.5s;
+        }
+
+        .fullPageMenu .nav {
+            display: flex;
+            align-items: center;
+            width: 300px;
+
+        }
+
+        .fullPageMenu .nav ul {
+            position: relative;
+        }
+
+        .fullPageMenu .nav ul li {
+            position: relative;
+            list-style: none;
+            padding: 0 20px;
+            margin: 5px 0;
+            overflow: hidden;
+
+        }
+
+        .fullPageMenu .nav ul li:before {
+            content: "";
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: #ff0047;
+            transition: transform 0.5s ease-in-out;
+            transform: scaleY(0);
+            transform-origin: bottom;
+        }
+
+        .fullPageMenu .nav ul li:hover:before {
+            transition: transform 0.5s ease-in-out;
+            transform: scaleY(1);
+            transform-origin: top;
+        }
+
+        .fullPageMenu .nav ul li a {
+            position: relative;
+            color: #fff;
+            text-decoration: none;
+            font-size: 4em;
+            font-weight: 700;
+            line-height: 1em;
+            display: inline-block;
+            text-transform: uppercase;
+            transition: 0.5s ease-in-out;
+        }
+
+        .fullPageMenu .nav ul li a::before {
+            content: attr(data-text);
+            position: absolute;
+            bottom: -100%;
+            left: 0;
+            color: #fff;
+        }
+
+        .fullPageMenu .nav ul li:hover a {
+            transform: translateY(-100%);
+            color: fff;
+        }
+        main{
+            margin-left: 400px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <header>
+
+
+
+            <div class="fullPageMenu" id="nav">
+                
+                <div class="nav">
+                    <ul>
+                        <li><a href="#" data-text="Home">Home</a></li>
+                        <li><a href="#" data-text="About">About</a></li>
+                        <li><a href="#" data-text="Services">Services</a></li>
+                        <li><a href="#" data-text="Team">Team</a></li>
+                        <li><a href="#" data-text="Portfolio">Portfolio</a></li>
+                        <li><a href="#" data-text="Contact">Contact</a></li>
+                    </ul>
+                </div>
+            </div>
+            <span class="menuicon" id="toggle" onclick="menuToggle()"></span>
+           
+
+    </header>
+    <main>
+        
+    </main>
+
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.8/dist/umd/popper.min.js"
+        integrity="sha384-I7E8VVD/ismYTF4hNIPjVp/Zjvgyol6VFvRkX/vR+Vc4jQkC+hVqc2pM8ODewa9r"
+        crossorigin="anonymous"></script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.min.js"
+        integrity="sha384-BBtl+eGJRgqQAUMxJ7pMwbEyER4l1g+O15P+16Ep7Q9Q+zqX6gSbd85u4mG4QzX+"
+        crossorigin="anonymous"></script>
+</body>
+
+</html>
