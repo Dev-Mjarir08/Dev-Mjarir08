@@ -1,49 +1,10 @@
-<div align="center" style="position: relative; height: 220px; background: radial-gradient(circle at top left, #001f3f, #000); overflow: hidden; border-radius: 12px;">
-  
-  <!-- Bubble animation background -->
-  <svg width="100%" height="100%" preserveAspectRatio="none" style="position:absolute; top:0; left:0; z-index:0;">
-    <defs>
-      <radialGradient id="bubbleGradient" cx="50%" cy="50%" r="50%">
-        <stop offset="0%" stop-color="#4db8ff" stop-opacity="0.8" />
-        <stop offset="100%" stop-color="transparent" />
-      </radialGradient>
-    </defs>
-    <g>
-      <circle cx="15%" cy="30%" r="40" fill="url(#bubbleGradient)">
-        <animate attributeName="cy" values="30%;10%;30%" dur="8s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="85%" cy="70%" r="60" fill="url(#bubbleGradient)">
-        <animate attributeName="cy" values="70%;40%;70%" dur="10s" repeatCount="indefinite" />
-      </circle>
-      <circle cx="50%" cy="50%" r="50" fill="url(#bubbleGradient)">
-        <animate attributeName="r" values="40;70;40" dur="9s" repeatCount="indefinite" />
-      </circle>
-    </g>
-  </svg>
+<!-- 🌊 Animated Intro Section -->
+<div align="center">
 
-  <!-- Animated name text -->
-  <h1 align="center" style="position: relative; z-index: 1; font-size: 3rem; color: #00aaff; font-weight: 800; letter-spacing: 2px;">
-    <span style="display:inline-block; animation: floatText 3s ease-in-out infinite alternate;">👋 Hi, I’m Jarir Multani</span>
-  </h1>
+![Bubbles Animation](https://i.gifer.com/76aO.gif)
 
-  <!-- Subtitle -->
-  <h3 align="center" style="position: relative; z-index: 1; font-weight: 500; color: #99e6ff; animation: fadeIn 5s ease-in-out infinite alternate;">
-    Full Stack Developer • JavaScript • Frontend Enthusiast
-  </h3>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Jarir+Multani;Full+Stack+Developer;JavaScript+%26+Frontend+Enthusiast;Lifelong+Learner+%26+UI+Designer)](https://git.io/typing-svg)
 
-  <style>
-    @keyframes floatText {
-      0% { transform: translateY(0px); color: #00aaff; text-shadow: 0 0 5px #00aaff; }
-      50% { transform: translateY(-10px); color: #66ccff; text-shadow: 0 0 15px #66ccff; }
-      100% { transform: translateY(0px); color: #00ffff; text-shadow: 0 0 5px #00ffff; }
-    }
-
-    @keyframes fadeIn {
-      0% { opacity: 0.5; }
-      50% { opacity: 1; }
-      100% { opacity: 0.7; }
-    }
-  </style>
 </div>
 
 ---
@@ -61,6 +22,8 @@
 - 🔜 **Next:** Backend (Node.js, Express, MongoDB) after frontend foundations are solid  
 - ✨ Fun fact: *I use Illustrator & Canvas for mockups and Photoshop for finishing touches.*
 
+---
+
 # 🛠️ Tech Stack
 
 | Languages & Frameworks | Design Tools | Deployment / Others |
@@ -76,6 +39,8 @@
 
 ### ⚡ **Specialization**
 ✔ Mastered **Data Structures & Algorithms (DSA) with C++**
+
+---
 
 ## 📊 GitHub Skill Heatmap
 
@@ -97,6 +62,8 @@
 ---
 
 [![](https://visitcount.itsvg.in/api?id=Dev-Mjarir08&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
 
 ## 🏆 Trophies — Bright Showcase
 
