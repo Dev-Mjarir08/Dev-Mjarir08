@@ -1,100 +1,148 @@
-<!-- Profile Banner -->
-![Jarir Multani – Full Stack Developer](https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:FF0080&height=250&section=header&text=Jarir%20Multani%20🚀%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=40&fontAlignY=40)
+# 💫 Jarir Multani | Full-Stack Developer 🚀
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00FF,100:FF0080&height=250&section=header&text=Jarir%20Multani%20🚀%20Full%20Stack%20Developer&fontColor=ffffff&fontSize=40&fontAlignY=40&animation=fadeIn" />
+
+<img src="https://komarev.com/ghpvc/?username=Dev-Mjarir08&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Dev-Mjarir08?style=for-the-badge&color=purple&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/Open%20to%20Work-✅-brightgreen?style=for-the-badge" />
+
+<img src="https://raw.githubusercontent.com/Dev-Mjarir08/Dev-Mjarir08/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 ---
 
-# 👋 Hi, I’m **Jarir Multani**
+## 👨‍💻 About Me
 
-## 💡 Full-Stack Developer | UI Enthusiast | Problem Solver
+Hello! I'm **Jarir Multani**, a passionate **Full-Stack Developer** focused on building **responsive, user-friendly web applications**.
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dev-Mjarir08&color=blueviolet&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Dev-Mjarir08?style=social)
-![Stars](https://img.shields.io/github/stars/Dev-Mjarir08?style=social)
-
----
-
-## 🔥 About Me
-
-- 🎯 Focused on mastering **Full-Stack Web Development**
-- 💻 Specializing in **Responsive UIs, API design & backend logic**
-- 📚 **Currently Learning:** Advanced JavaScript & frontend frameworks  
-- 🔜 **Next Target:** Backend development using **Node.js, Express, MongoDB**
-- 🎨 I love using **Illustrator & Canva** for mockups and **Photoshop** for polishing
-- 🚀 Built **8+ responsive websites** & **3+ JavaScript projects** from scratch  
+- 🎯 **Current Focus:** MERN Stack & real-world projects  
+- 💼 **Status:** Open to freelance & collaborations  
+- 🏆 **Achievements:**  
+  - 8+ Responsive Websites  
+  - 3+ JavaScript Projects  
 
 ---
 
-## 🧭 2025 Goals
+## 🧠 Tech Mindset (Code Style)
 
-- ✅ Master advanced JavaScript concepts  
-- 🏗 Build a complete **MERN stack project**  
-- 🧩 Learn REST APIs & backend authentication  
-- 🚀 Deploy a personal portfolio & contribute to open source  
-- 🌱 Start freelancing with full-stack projects  
+```javascript
+const jarir = {
+  pronouns: "He/Him",
+  code: ["JavaScript", "HTML", "CSS", "Java", "C++", "SQL"],
+  tools: ["VS Code", "Git", "Figma", "Illustrator", "Photoshop"],
+  learning: ["Node.js", "Express", "MongoDB", "React"],
+  goal: "Become a Full-Stack Developer in 2025",
+  funFact: "Design mockups before writing code 🎨"
+};
 
----
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Dev-Mjarir08&show_icons=true&theme=radical&hide_border=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mjarir08&layout=compact&theme=radical&hide_border=true" /> <img src="https://streak-stats.demolab.com/?user=Dev-Mjarir08&theme=radical&hide_border=true" /> <img src="https://github-readme-activity-graph.vercel.app/graph?username=Dev-Mjarir08&theme=github-compact&hide_border=true&area=true" /> </div>
 
-## 🛠️ Tech Stack
+Frontend
 
-| Category | Tools |
-|-----------|-------|
-| 💻 **Frontend** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white) |
-| ⚙️ **Backend (Next)** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
-| 🧩 **Programming Languages** | ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) ![Oracle SQL](https://img.shields.io/badge/OracleSQL-F80000?style=flat-square&logo=oracle&logoColor=white) |
-| 🎨 **Design Tools** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white) ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white) |
-| 🚀 **Deployment & Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white) |
+HTML / CSS ⭐⭐⭐⭐⭐
 
----
+JavaScript ⭐⭐⭐⭐☆
 
-## 🚀 Featured Projects
+Bootstrap ⭐⭐⭐⭐⭐
 
-| Project | Tech | Description | Link |
-|----------|------|-------------|------|
-| 🧠 **JS Quiz App** | JavaScript, HTML, CSS | Interactive quiz with score tracking | [Repo](https://github.com/Dev-Mjarir08/quiz-app) |
-| 🌐 **Portfolio Site** | HTML, Bootstrap | Responsive personal portfolio | [Live](https://your-portfolio-link.vercel.app) |
-| 🛒 **E-commerce UI** | JavaScript, SwiperJS | Dynamic product carousel & cart UI | [Repo](https://github.com/Dev-Mjarir08/ecommerce-ui) |
-| 📅 **Task Tracker** | Vanilla JS, LocalStorage | To-do list with persistent data | [Repo](https://github.com/Dev-Mjarir08/task-tracker) |
+Responsive Design ⭐⭐⭐⭐⭐
 
----
+UI / UX ⭐⭐⭐⭐☆
 
-## 📊 GitHub Stats & Activity
+Backend (Learning)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dev-Mjarir08&show_icons=true&theme=radical&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Mjarir08&layout=compact&theme=radical&hide_border=true)
+Node.js ⭐⭐☆☆☆
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Dev-Mjarir08&theme=high-contrast&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+Express.js ⭐☆☆☆☆
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Dev-Mjarir08&theme=radical&hide_border=true)
+MongoDB ⭐☆☆☆☆
 
----
+REST APIs ⭐⭐☆☆☆
 
-## 🏆 Achievements
+Programming
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dev-Mjarir08&theme=radical&margin-w=20&margin-h=20&row=2)
+Java ⭐⭐⭐☆☆
 
----
+C / C++ ⭐⭐⭐☆☆
 
-## 🌐 Connect With Me
+SQL ⭐⭐⭐☆☆
 
-| [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/Dev-Mjarir08) | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jarir-multani-3b7483369/) | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mjarir08@gmail.com) |
-|---|---|---|
+Design & Tools
 
----
+Figma / Adobe XD ⭐⭐⭐⭐☆
 
-## 💬 Random Dev Quote
+Illustrator ⭐⭐⭐⭐⭐
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Photoshop ⭐⭐⭐⭐☆
 
----
+Git & GitHub ⭐⭐⭐⭐☆
 
-## 🧑‍💻 Treat Me Like a Developer
+🏆 GitHub Trophies
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Dev-Mjarir08&theme=radical&no-frame=true&row=2&column=4" /> </div>
+🚀 Featured Projects
+Project	Description	Tech Stack
+🧠 JS Quiz App	Quiz app with timer & score	JS, HTML, CSS
+🌟 Portfolio	Personal responsive portfolio	HTML, Bootstrap, JS
+🛒 E-commerce UI	Modern shopping UI	JS, CSS Grid
+📅 Task Tracker	To-Do app with LocalStorage	Vanilla JS
+📜 Certifications
 
-> “Ship fast, learn more — push code, then soar.”
+Web Development Fundamentals – freeCodeCamp
 
----
+JavaScript Algorithms – freeCodeCamp
 
-<!-- Footer Banner -->
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:6A00FF&height=120&section=footer&text=Thanks%20for%20Visiting%20💻&fontColor=ffffff&fontSize=22)
+Responsive Web Design – Coursera
 
-**🕒 Last Updated:** November 2025  
-*(Automate updates via GitHub Actions for dynamic stats refresh)*
+UI/UX Design – Google
+
+🎯 2025 Roadmap
+✅ Q1
+
+Advanced JavaScript
+
+React Basics
+
+Node.js Fundamentals
+
+🎯 Q2
+
+MERN Stack Project
+
+Authentication & Security
+
+Freelancing Start
+
+🚀 Q3–Q4
+
+Open Source Contributions
+
+Deployment (Vercel / AWS)
+
+Job Preparation
+
+🛠️ Tech Stack
+
+Frontend
+HTML • CSS • JavaScript • Bootstrap
+
+Backend
+Node.js • Express • MongoDB
+
+Tools
+Git • GitHub • VS Code • Figma • Vercel
+
+📬 Let's Connect
+<div align="center"> <a href="https://github.com/Dev-Mjarir08"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" /> </a> <a href="https://www.linkedin.com/in/jarir-multani-3b7483369/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /> </a> <a href="mailto:08mjarir@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /> </a> </div>
+💭 Developer Quotes
+
+“First, solve the problem. Then, write the code.” – John Johnson
+“The only way to learn a new language is by writing programs.” – Dennis Ritchie
+
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF0080,100:6A00FF&height=120&section=footer&text=Thanks%20for%20Visiting!%20🚀&fontColor=ffffff&fontSize=22" />
+
+Made with ❤️ by Jarir Multani
+
+</div> ```
