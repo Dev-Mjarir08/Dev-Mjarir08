@@ -90,12 +90,11 @@ const jarir = {
 
 <a href="https://jarirmultani.vercel.app/">
   "<img width="225" height="225" alt="images" src="https://github.com/user-attachments/assets/08eaf517-8730-4f80-8fa2-7931b3054ac0" />
-"/>
+
 </a>
 
 <a href="https://github.com/Dev-Mjarir08">
-  <img width="1919" height="975" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/2eb66318-bb10-45c2-91e3-4ee1d9f9623e" />
-"/>
+  <img width="1919" height="225" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/2eb66318-bb10-45c2-91e3-4ee1d9f9623e" />
 </a>
 
 </p>
