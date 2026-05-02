@@ -88,12 +88,10 @@ const jarir = {
 
 <p align="center">
 
+
 <a href="https://jarirmultani.vercel.app/" target="_blank">
-  <img 
-    src="https://github.com/user-attachments/assets/08eaf517-8730-4f80-8fa2-7931b3054ac0" 
-    width="300" 
-    alt="Portfolio Preview"
-    style="border-radius:10px;"/>
+<img width="1919" height="975" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/f3a03211-327d-413e-a9e1-20c144028a0a"    alt="Portfolio Preview"
+    style="border-radius:10px;" />
 </a>
 
 <br/><br/>
