@@ -94,7 +94,7 @@ const jarir = {
 </a>
 
 <a href="https://github.com/Dev-Mjarir08">
-  <img width="1919" height="225" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/2eb66318-bb10-45c2-91e3-4ee1d9f9623e" />
+  <img width="1919" height="650" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/2eb66318-bb10-45c2-91e3-4ee1d9f9623e" />
 </a>
 
 </p>
