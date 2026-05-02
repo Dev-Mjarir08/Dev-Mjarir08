@@ -7,7 +7,7 @@
 <h1 align="center">Hey 👋, I'm Jarir Multani</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Engineer;MERN+Stack+Specialist;Building+Scalable+Systems;Open+for+Freelance+Work"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Backend+Devloper;MERN+Stack+Developer;Building+Stunning+UI;Open+for+Freelance+Work"/>
 </p>
 
 <p align="center">
