@@ -42,7 +42,6 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-```js
 const jarir = {
   role: "Full Stack Developer",
   specialization: "Backend Engineering",
@@ -51,7 +50,6 @@ const jarir = {
   freelance: true,
   location: "India"
 };
-```
 
 * ⚡ I design **high-performance backend systems**
 * 🔐 Strong grip on **authentication & API security**
@@ -68,7 +66,6 @@ const jarir = {
   <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,tailwind,git,github,vscode,postman" />
 </p>
 
----
 
 <!-- ================= VALUE SECTION ================= -->
 
@@ -83,8 +80,6 @@ const jarir = {
 ---
 
 <!-- ================= PROJECT CARDS ================= -->
-
-## 🚀 Featured Work
 
 
 ## 🚀 Featured Work
