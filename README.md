@@ -86,23 +86,35 @@ const jarir = {
 
 ## 🚀 Featured Work
 
-<p align="center">
 
+## 🚀 Featured Work
+
+<div align="center">
 
 <a href="https://jarirmultani.vercel.app/" target="_blank">
-<img width="1919" height="975" alt="Screenshot 2026-05-02 200807" src="https://github.com/user-attachments/assets/f3a03211-327d-413e-a9e1-20c144028a0a"    alt="Portfolio Preview"
-    style="border-radius:10px;" />
+
+<img width="100%" alt="Jarir Portfolio" src="https://github.com/user-attachments/assets/58357204-ac31-43d7-8acd-dc8f3114730d" />
+
 </a>
 
-<br/><br/>
+<br><br>
 
-<b>🌐 My Portfolio Website</b><br/>
-👉 <a href="https://jarirmultani.vercel.app/" target="_blank">
-https://jarirmultani.vercel.app/
+### 🌐 Personal Portfolio Website
+
+🚀 Modern Developer Portfolio showcasing projects, skills, experience and services.
+
+<br>
+
+<a href="https://jarirmultani.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🔗 Live Demo-00F7FF?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 
-</p>
----
+<a href="https://github.com/Dev-Mjarir08" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
 
 <!-- ================= STATS ================= -->
 
